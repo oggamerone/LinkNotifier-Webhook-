@@ -1,2 +1,2 @@
 # LinkNotifier-Webhook-
-Link notifier by Webhook, old version, have issues.
+Link notifier by Webhook. Old version have issues.
