@@ -3,7 +3,7 @@ import time
 import json
 
 
-#Link da webhook do seu canal, você pode adicionar varis webhoob ex: webhook_url = "dkdksdsldksldkskdskdks", "WEbhook 2"
+#Link da webhook do seu canal, você pode adicionar varias webhook ex: webhook_url = "dkdksdsldksldkskdskdks", "WEbhook 2"
 webhook_url = ''
 notified_item_ids = set()
 
